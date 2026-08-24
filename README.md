@@ -379,9 +379,9 @@
 
 [Icestudio](https://icestudio.io/) is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.
 
-[FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,453 | 🐛 154 | 🌐 Python | 📅 2026-08-21 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
+[FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,453 | 🐛 153 | 🌐 Python | 📅 2026-08-24 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
 
-[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,767 | 🐛 93 | 🌐 C | 📅 2026-08-14 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,768 | 🐛 93 | 🌐 C | 📅 2026-08-14 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
 
 [PipeCNN](https://github.com/doonny/PipeCNN) ⭐ 1,386 | 🐛 44 | 🌐 C | 📅 2022-02-14 is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs). Currently, there is a growing trend among developers in the FPGA community to utilize High Level Synthesis (HLS) tools to design and implement customized circuits on FPGAs.
 
@@ -395,7 +395,7 @@
 
 [Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers.
 
-[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 712 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
+[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 713 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
 
 [LLVM](https://github.com/llvm/) is a library that has collection of modular/reusable compiler and toolchain  components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).
 
@@ -474,7 +474,7 @@
 
 [Cascade](https://github.com/vmware/cascade) ⚠️ Archived is a Just-In-Time Compiler for Verilog from VMware Research. Cascade executes code immediately in a software simulator, and performs compilation in the background. When compilation is finished, the code is moved into hardware, and from the user’s perspective it simply gets faster over time.
 
-[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 712 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
+[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 713 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
 
 # C/C++ Development
 
@@ -514,7 +514,7 @@
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,263 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,264 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -562,7 +562,7 @@
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,389 | 🐛 1,183 | 🌐 CMake | 📅 2026-08-22 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,390 | 🐛 1,194 | 🌐 CMake | 📅 2026-08-24 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -671,13 +671,13 @@
 
 [NetBeans](https://netbeans.org/features/java/index.html) is an IDE provides Java developers with all the tools needed to create professional desktop, mobile and enterprise applications. Creating, Editing, and Refactoring. The IDE provides wizards and templates to let you create Java EE, Java SE, and Java ME applications.
 
-[Java Design Patterns ](https://github.com/iluwatar/java-design-patterns) ⭐ 94,608 | 🐛 139 | 🌐 Java | 📅 2026-08-17 is a collection of the best formalized practices a programmer can use to solve common problems when designing an application or system.
+[Java Design Patterns ](https://github.com/iluwatar/java-design-patterns) ⭐ 94,610 | 🐛 139 | 🌐 Java | 📅 2026-08-17 is a collection of the best formalized practices a programmer can use to solve common problems when designing an application or system.
 
 [Elasticsearch](https://www.elastic.co/products/elasticsearch) is a distributed RESTful search engine built for the cloud written in Java.
 
 [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,204 | 🐛 10 | 🌐 Java | 📅 2026-08-24 is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences. It extends the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to support sequences of data/events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety and concurrent data structures.
 
-[Guava](https://github.com/google/guava) ⭐ 51,891 | 🐛 750 | 🌐 Java | 📅 2026-08-21 is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well.
+[Guava](https://github.com/google/guava) ⭐ 51,890 | 🐛 750 | 🌐 Java | 📅 2026-08-21 is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well.
 
 [okhttp](https://square.github.io/okhttp/) is a HTTP client for Java and Kotlin developed by Square.
 
@@ -793,7 +793,7 @@
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,447 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,446 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
@@ -821,9 +821,9 @@
 
 [Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 169 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,093 | 🐛 3 | 🌐 Python | 📅 2026-08-24 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,094 | 🐛 3 | 🌐 Python | 📅 2026-08-24 is an easy to use, scriptable and scalable performance testing tool.
 
-[spaCy](https://github.com/explosion/spaCy) ⭐ 33,839 | 🐛 238 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
+[spaCy](https://github.com/explosion/spaCy) ⭐ 33,840 | 🐛 238 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
 
 [NumPy](https://www.numpy.org/) is the fundamental package needed for scientific computing with Python.
 
@@ -872,15 +872,15 @@
 
 ## Rust Tools
 
-[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,420 | 🐛 1,659 | 🌐 Rust | 📅 2026-08-24 is a package manager that downloads your Rust project’s dependencies and compiles your project.
+[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,421 | 🐛 1,659 | 🌐 Rust | 📅 2026-08-24 is a package manager that downloads your Rust project’s dependencies and compiles your project.
 
 [Crater](https://crater.rust-lang.org/) is a tool to run experiments across parts of the Rust ecosystem. Its primary purpose is to detect regressions in the Rust compiler, and it does this by building a large number of crates, running their test suites and comparing the results between two versions of the Rust compiler. It can operate locally (with Docker as the only dependency) or distributed on the cloud. It can operate locally (with Docker as the only dependency) or distributed on the cloud.
 
 [VSCode-Rust](https://github.com/rust-lang/vscode-rust) ⚠️ Archived is plugin that adds language support for Rust to Visual Studio Code. Rust support is powered by a separate language server - either by the official Rust Language Server (RLS) or rust-analyzer, depending on the user's preference. If you don't have it installed, the extension will install it for you (with permission). This extension is built and maintained by the Rust IDEs and editors team with the focus on providing a stable, high quality extension that makes the best use of the respective language server.
 
-[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,045 | 🐛 2,587 | 🌐 C++ | 📅 2026-08-24 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
+[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,047 | 🐛 2,587 | 🌐 C++ | 📅 2026-08-24 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
 
-[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 20,968 | 🐛 232 | 🌐 Rust | 📅 2026-08-24.
+[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 20,968 | 🐛 231 | 🌐 Rust | 📅 2026-08-24.
 
 [Firecracker](https://firecracker-microvm.github.io) is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) ⚠️ Archived and [Weaveworks Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived.
 
@@ -890,19 +890,19 @@
 
 [Sonic](https://crates.io/crates/sonic-server) is a fast, lightweight and schema-less search backend similar to Elasticsearch in some use-cases.
 
-[Hyper](https://github.com/hyperium/hyper) ⭐ 16,287 | 🐛 261 | 🌐 Rust | 📅 2026-08-23 is a fast and correct HTTP library for Rust.
+[Hyper](https://github.com/hyperium/hyper) ⭐ 16,287 | 🐛 257 | 🌐 Rust | 📅 2026-08-24 is a fast and correct HTTP library for Rust.
 
-[Rocket](https://github.com/SergioBenitez/Rocket) ⭐ 25,778 | 🐛 90 | 🌐 Rust | 📅 2025-12-28 is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
+[Rocket](https://github.com/SergioBenitez/Rocket) ⭐ 25,779 | 🐛 90 | 🌐 Rust | 📅 2025-12-28 is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
 
 [Clippy](https://rust-lang.github.io/rust-clippy/) is a collection of lints to catch common mistakes and improve your Rust code.
 
-[Servo](https://github.com/servo/servo) ⭐ 37,782 | 🐛 3,153 | 🌐 Rust | 📅 2026-08-24 is a prototype web browser engine written in the Rust language.
+[Servo](https://github.com/servo/servo) ⭐ 37,784 | 🐛 3,154 | 🌐 Rust | 📅 2026-08-24 is a prototype web browser engine written in the Rust language.
 
 [Vector](https://vector.dev/) is a high-performance, end-to-end (agent & aggregator) observability data platform that puts the user in control of their observability data.
 
-[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,300 | 🐛 393 | 🌐 Rust | 📅 2026-08-24 is a Python Interpreter written in Rust.
+[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,301 | 🐛 399 | 🌐 Rust | 📅 2026-08-24 is a Python Interpreter written in Rust.
 
-[Miri](https://github.com/rust-lang/miri) ⭐ 6,522 | 🐛 179 | 🌐 Rust | 📅 2026-08-24 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
+[Miri](https://github.com/rust-lang/miri) ⭐ 6,523 | 🐛 179 | 🌐 Rust | 📅 2026-08-24 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
 
 [Chalk](https://rust-lang.github.io/chalk/book/) is an implementation and definition of the Rust trait system using a PROLOG-like logic solver.
 
@@ -910,7 +910,7 @@
 
 [Simpleinfra](https://github.com/rust-lang/simpleinfra) ⭐ 175 | 🐛 70 | 🌐 HCL | 📅 2026-08-24 is rep that contains the tools and automation written by the Rust infrastructure team to manage our services. Using some of the tools in this repo require privileges only infra team members have.
 
-[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,934 | 🐛 34 | 🌐 Rust | 📅 2026-08-22 is a small set of exercises to get you used to reading and writing Rust code.
+[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,935 | 🐛 34 | 🌐 Rust | 📅 2026-08-22 is a small set of exercises to get you used to reading and writing Rust code.
 
 [Krustlet](https://krustlet.dev/) acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes [tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/). The project is currently experimental.
 
@@ -961,7 +961,7 @@
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 44 | 🌐 Shell | 📅 2026-08-22 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 45 | 🌐 Shell | 📅 2026-08-24 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
@@ -977,7 +977,7 @@
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 33,799 | 🐛 71 | 🌐 Go | 📅 2026-08-22 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 33,803 | 🐛 71 | 🌐 Go | 📅 2026-08-22 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -1147,7 +1147,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,418 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.
 
-[F´ (F Prime)](https://github.com/nasa/fprime) ⭐ 11,688 | 🐛 451 | 🌐 C++ | 📅 2026-08-23 is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F´ has been successfully deployed on several space applications.
+[F´ (F Prime)](https://github.com/nasa/fprime) ⭐ 11,689 | 🐛 451 | 🌐 C++ | 📅 2026-08-23 is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F´ has been successfully deployed on several space applications.
 
 [The JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,601 | 🐛 16 | 🌐 Prolog | 📅 2026-08-13 is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. The Open Source Rover is designed almost entirely out of consumer off the shelf (COTS) parts. This project is intended to be a teaching and learning experience for those who want to get involved in mechanical engineering, software, electronics, or robotics.
 
@@ -1155,7 +1155,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,486 | 🐛 39 | 🌐 C++ | 📅 2026-08-21 is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,317 | 🐛 1,193 | 🌐 C++ | 📅 2026-08-24 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,317 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-24 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
 
 [ROS bridge](https://github.com/carla-simulator/ros-bridge) ⭐ 643 | 🐛 185 | 🌐 Python | 📅 2026-08-16 is a package to bridge ROS for CARLA Simulator.
 
