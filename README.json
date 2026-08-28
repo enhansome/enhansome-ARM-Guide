@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "mikeroyal",
             "repo": "ARM-Guide",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         }
       ],
       "title": "A guide covering ARM architecture including the applications and tools that will make you a better and more efficient ARM developer."
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-27T13:32:39Z",
             "owner": "ARM-software",
             "repo": "ComputeLibrary",
-            "stars": 3183
-          }
+            "stars": 3185
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "ARM-software",
             "repo": "lisa",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "eclipse-embed-cdt",
             "repo": "eclipse-plugins",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -303,11 +322,12 @@
             "archived": false,
             "id": 41107037,
             "language": "C",
-            "last_commit": "2026-08-27T11:23:41Z",
+            "last_commit": "2026-08-28T09:09:56Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9269
-          }
+            "stars": 9270
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "keystone-engine",
             "repo": "keystone",
             "stars": 2625
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         }
       ],
       "title": "ARM Tools & Projects"
@@ -343,7 +364,8 @@
             "owner": "apple",
             "repo": "tensorflow_macos",
             "stars": 3648
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         }
       ],
       "title": "Apple Silicon & Learning Resources"
@@ -363,8 +385,9 @@
             "last_commit": "2026-08-02T16:01:08Z",
             "owner": "AsahiLinux",
             "repo": "docs",
-            "stars": 2264
-          }
+            "stars": 2268
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         }
       ],
       "title": "Linux on ARM"
@@ -387,7 +410,8 @@
                 "owner": "sifive",
                 "repo": "fpga-shells",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "FPGA(Field Programmable Gate Arrays) are semiconductor devices that are based around a matrix of configurable logic blocks (CLBs) connected via programmable interconnects. FPGAs can be reprogrammed to desired application or functionality requirements after manufacturing.\nTinyFPGA is a new series of boards that are low-cost, open source FPGA boards in a tiny form factor.\nFPGA & SoC Design Tools from Microsemi\nQuickLogic Embedded FPGA (eFPGA) Intellectual Property (IP) and Software\nFPGA for Beginners with Development Boards from Digilent®\nHundreds of FPGA Projects on Instructables\nFPGA Fundamentals from NI(National Instruments)\nGetting Started With LabVIEW FPGA from NI(National Instruments)\nProgramming and FPGA Basics - INTEL® FPGAS\nIntel FPGA Training Program\nFPGA Courses on Coursera\nFPGA Courses on Udemy\nFPGA Online Training Courses on LinkedIn Learning\nUMass Lowell's Graduate Certificate in Field Programmable Gate Arrays(FPGA)\nFPGA Design Fundamentals Course (UC San Diego Extension)\nFPGA II Course (UC San Diego Extension)\nFPGAs & SoCs Training from Microsemi\nDSP fundamentals for FPGAs course from MATLAB and Simulink Training\nVerilog Courses on Coursera",
@@ -405,11 +429,12 @@
                 "archived": false,
                 "id": 51361989,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:45:11Z",
+                "last_commit": "2026-08-28T10:12:36Z",
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1005
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -423,8 +448,9 @@
                 "last_commit": "2026-02-26T14:31:07Z",
                 "owner": "YosysHQ",
                 "repo": "icestorm",
-                "stars": 1182
-              }
+                "stars": 1183
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -439,7 +465,8 @@
                 "owner": "olofk",
                 "repo": "fusesoc",
                 "stars": 1453
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -453,8 +480,9 @@
                 "last_commit": "2026-08-25T11:02:34Z",
                 "owner": "open-sdr",
                 "repo": "openwifi",
-                "stars": 4773
-              }
+                "stars": 4775
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -468,8 +496,9 @@
                 "last_commit": "2022-02-14T23:59:36Z",
                 "owner": "doonny",
                 "repo": "PipeCNN",
-                "stars": 1386
-              }
+                "stars": 1387
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -483,8 +512,9 @@
                 "last_commit": "2025-12-26T05:39:10Z",
                 "owner": "OpenTimer",
                 "repo": "OpenTimer",
-                "stars": 713
-              }
+                "stars": 714
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -499,7 +529,8 @@
                 "owner": "eclipse-embed-cdt",
                 "repo": "eclipse-plugins",
                 "stars": 560
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -514,7 +545,8 @@
                 "owner": "keystone-engine",
                 "repo": "keystone",
                 "stars": 2625
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -528,8 +560,9 @@
                 "last_commit": "2026-08-25T22:53:25Z",
                 "owner": "uxmal",
                 "repo": "reko",
-                "stars": 2600
-              }
+                "stars": 2601
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "LabVIEW FPGA is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.\nIcestudio is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.\nVerilator is an open-source SystemVerilog simulator and lint system.\nVerilog to Routing(VTR) is a collaborative project to provide a open-source framework for conducting FPGA architecture and CAD Research & Development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.\nPlatformIO is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.\nPlatformIO for VSCode is a plugin that provides support for the PlatformIO IDE on VSCode.\nTock is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers.\nLLVM is a library that has collection of modular/reusable compiler and toolchain components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).\nTinyGo is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.\nChipyard is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other Berkeley projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.\nRenode is Antmicro's virtual development framework for multinode embedded networks (both wired and wireless) and is intended to enable a scalable workflow for creating effective, tested and secure IoT systems.\nDiosix is a lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V.",
@@ -553,11 +586,12 @@
                 "archived": false,
                 "id": 51361989,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:45:11Z",
+                "last_commit": "2026-08-28T10:12:36Z",
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1005
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -571,8 +605,9 @@
                 "last_commit": "2026-02-26T14:31:07Z",
                 "owner": "YosysHQ",
                 "repo": "icestorm",
-                "stars": 1182
-              }
+                "stars": 1183
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -587,7 +622,8 @@
                 "owner": "vmware-archive",
                 "repo": "cascade",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -601,8 +637,9 @@
                 "last_commit": "2025-12-26T05:39:10Z",
                 "owner": "OpenTimer",
                 "repo": "OpenTimer",
-                "stars": 713
-              }
+                "stars": 714
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Icestudio is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.\nEDA Playground is a online code for programming your Verilog projects.\nPlatformIO is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.\nPlatformIO for VSCode is a plugin that provides support for the PlatformIO IDE on VSCode.\nChisel is a hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog.\nClash compiler is a functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell. The Clash compiler transforms these high-level descriptions to low-level synthesizable VHDL, Verilog, or SystemVerilog.\nVerilator is an open-source SystemVerilog simulator and lint system.\nVerilog to Routing(VTR) is a collaborative project to provide a open-source framework for conducting FPGA architecture and CAD Research & Development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.",
@@ -629,8 +666,9 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45278
-              }
+                "stars": 45281
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
@@ -648,11 +686,12 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-26T19:17:53Z",
+                "last_commit": "2026-08-28T21:00:41Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27402
-              }
+                "stars": 27404
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -666,8 +705,9 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3406
-              }
+                "stars": 3405
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -682,7 +722,8 @@
                 "owner": "NVIDIA",
                 "repo": "thrust",
                 "stars": 5002
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -697,7 +738,8 @@
                 "owner": "bytedeco",
                 "repo": "javacpp",
                 "stars": 4705
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -711,8 +753,9 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29534
-              }
+                "stars": 29536
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Visual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
@@ -739,8 +782,9 @@
                 "last_commit": "2026-08-25T04:52:07Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94628
-              }
+                "stars": 94633
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -754,8 +798,9 @@
                 "last_commit": "2026-08-27T05:03:09Z",
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48207
-              }
+                "stars": 48208
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -766,11 +811,12 @@
                 "archived": false,
                 "id": 20300177,
                 "language": "Java",
-                "last_commit": "2026-08-27T01:21:47Z",
+                "last_commit": "2026-08-28T19:41:24Z",
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51894
-              }
+                "stars": 51896
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -785,7 +831,8 @@
                 "owner": "alibaba",
                 "repo": "fastjson",
                 "stars": 25598
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Java SE contains several tools to assist in program development and debugging, and in the monitoring and troubleshooting of production applications.\nJDK Development Tools includes the Java Web Start Tools (javaws) Java Troubleshooting, Profiling, Monitoring and Management Tools (jcmd, jconsole, jmc, jvisualvm); and Java Web Services Tools (schemagen, wsgen, wsimport, xjc).\nAndroid Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.\nIntelliJ IDEA is an IDE for Java, but it also understands and provides intelligent coding assistance for a large variety of other languages such as Kotlin, SQL, JPQL, HTML, JavaScript, etc., even if the language expression is injected into a String literal in your Java code.\nNetBeans is an IDE provides Java developers with all the tools needed to create professional desktop, mobile and enterprise applications. Creating, Editing, and Refactoring. The IDE provides wizards and templates to let you create Java EE, Java SE, and Java ME applications.\nElasticsearch is a distributed RESTful search engine built for the cloud written in Java.\nokhttp is a HTTP client for Java and Kotlin developed by Square.\nRetrofit is a type-safe HTTP client for Android and Java develped by Square.\nLeakCanary is a memory leak detection library for Android develped by Square.\nApache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities with elegant and fluent APIs in Java and Scala.\nlibGDX is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.\nJenkins is the leading open-source automation server. Built with Java, it provides over 1700 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot.\nDBeaver is a free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (MongoDB, Cassandra, Redis, DynamoDB, etc).\nRedisson is a Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, and local cache.\nGraalVM is a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Clojure, Kotlin, and LLVM-based languages such as C and C++.\nGradle is a build automation tool for multi-language software development. From mobile apps to microservices, from small startups to big enterprises, Gradle helps teams build, automate and deliver better software, faster. Write in Java, C++, Python or your language of choice.\nApache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.\nJaCoCo is a free code coverage library for Java, which has been created by the EclEmma team based on the lessons learned from using and integration existing libraries for many years.\nApache JMeter is used to test performance both on static and dynamic resources, Web dynamic applications. It also used to simulate a heavy load on a server, group of servers, network or object to test its strength or to analyze overall performance under different load types.\nJunit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.\nMockito is the most popular Mocking framework for unit tests written in Java.\nSpotBugs is a program which uses static analysis to look for bugs in Java code.\nSpringBoot is a great tool that helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need.\nYourKit is a technology leader, creator of the most innovative and intelligent tools for profiling Java & .NET applications.",
@@ -813,7 +860,8 @@
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs-python",
                 "stars": 3961
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Python is an interpreted, high-level programming language. Python is used heavily in the fields of Data Science and Machine Learning.\nPython Developer’s Guide is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python.\nAzure Functions Python developer guide is an introduction to developing Azure Functions using Python. The content below assumes that you've already read the Azure Functions developers guide.\nCheckiO is a programming learning platform and a gamified website that teaches Python through solving code challenges and competing for the most elegant and creative solutions.\nPython Institute\nPCEP – Certified Entry-Level Python Programmer certification\nPCAP – Certified Associate in Python Programming certification\nPCPP – Certified Professional in Python Programming 1 certification\nPCPP – Certified Professional in Python Programming 2\nMTA: Introduction to Programming Using Python Certification\nGetting Started with Python in Visual Studio Code\nGoogle's Python Style Guide\nGoogle's Python Education Class\nReal Python\nIntro to Python for Data Science\nIntro to Python by W3schools\nCodecademy's Python 3 course\nLearn Python with Online Courses and Classes from edX\nPython Courses Online from Coursera",
@@ -831,11 +879,12 @@
                 "archived": false,
                 "id": 265902625,
                 "language": "Python",
-                "last_commit": "2026-08-26T05:12:51Z",
+                "last_commit": "2026-08-28T20:55:40Z",
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2116
-              }
+                "stars": 2115
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -846,11 +895,12 @@
                 "archived": false,
                 "id": 175129788,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:02:37Z",
+                "last_commit": "2026-08-28T18:53:41Z",
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15602
-              }
+                "stars": 15604
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -864,8 +914,9 @@
                 "last_commit": "2026-08-12T15:03:00Z",
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11061
-              }
+                "stars": 11059
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -879,8 +930,9 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38463
-              }
+                "stars": 38465
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -894,8 +946,9 @@
                 "last_commit": "2026-08-24T22:09:52Z",
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25035
-              }
+                "stars": 25034
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -909,8 +962,9 @@
                 "last_commit": "2026-07-01T08:19:02Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28209
-              }
+                "stars": 28212
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -924,8 +978,9 @@
                 "last_commit": "2026-07-19T07:21:52Z",
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8779
-              }
+                "stars": 8777
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -939,8 +994,9 @@
                 "last_commit": "2026-07-29T03:09:51Z",
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18645
-              }
+                "stars": 18646
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1011,8 @@
                 "owner": "microsoft",
                 "repo": "nni",
                 "stars": 14360
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -969,8 +1026,9 @@
                 "last_commit": "2026-07-18T11:15:46Z",
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18767
-              }
+                "stars": 18768
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -984,8 +1042,9 @@
                 "last_commit": "2026-08-26T17:46:29Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28108
-              }
+                "stars": 28112
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -999,8 +1058,9 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33856
-              }
+                "stars": 33860
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.\nPyCharm is the best IDE I've ever used. With PyCharm, you can access the command line, connect to a database, create a virtual environment, and manage your version control system all in one place, saving time by avoiding constantly switching between windows.\nPython Tools for Visual Studio(PTVS) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.\nDjango is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.\nFlask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.\nWeb2py is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.\nTornado is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.\nScrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.\nSentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.\nCherryPy is a minimalist Python object-oriented HTTP web framework.\nPyramid is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.\nTurboGears is a hybrid web framework able to act both as a Full Stack framework or as a Microframework.\nFalcon is a reliable, high-performance Python web framework for building large-scale app backends and microservices with support for MongoDB, Pluggable Applications and autogenerated Admin.\nDash is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.\nNumPy is the fundamental package needed for scientific computing with Python.\nPillow is a friendly PIL(Python Imaging Library) fork.\nIPython is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers enhanced introspection, rich media, additional shell syntax, tab completion, and rich history.\nGraphLab Create is a Python library, backed by a C++ engine, for quickly building large-scale, high-performance machine learning models.\nPandas is a fast, powerful, and easy to use open source data structrures, data analysis and manipulation tool, built on top of the Python programming language.\nPuLP is an Linear Programming modeler written in python. PuLP can generate LP files and call on use highly optimized solvers, GLPK, COIN CLP/CBC, CPLEX, and GUROBI, to solve these linear problems.\nMatplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.\nScikit-Learn is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.",
@@ -1028,7 +1088,8 @@
                 "owner": "microsoft",
                 "repo": "verona",
                 "stars": 3727
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Rust is a multi-paradigm programming language focused on performance and safety. Rust has a comparable amount of runtime to C and C++, and has set up its standard library to be amenable towards OS development. Specifically, the standard library is split into two parts: core and std. Core is the lowest-level aspects only, and doesn't include things like allocation, threading, and other higher-level features.\nThe Rust Language Reference\nThe Rust Programming Language Book\nLearning Rust\nWhy AWS loves Rust\nRust Programming courses on Udemy\nSafety in Systems Programming with Rust at Standford by Ryan Eberhardt\nWebAssembly meets Kubernetes with Krustlet using Rust",
@@ -1046,11 +1107,12 @@
                 "archived": false,
                 "id": 17420913,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:09:47Z",
+                "last_commit": "2026-08-28T19:44:41Z",
                 "owner": "rust-lang",
                 "repo": "cargo",
-                "stars": 15435
-              }
+                "stars": 15441
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1065,7 +1127,8 @@
                 "owner": "rust-lang",
                 "repo": "vscode-rust",
                 "stars": 1399
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1076,11 +1139,12 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-27T14:29:58Z",
+                "last_commit": "2026-08-28T18:22:59Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17066
-              }
+                "stars": 17069
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1094,8 +1158,9 @@
                 "last_commit": "2026-08-27T09:14:39Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33023
-              }
+                "stars": 33028
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1106,11 +1171,12 @@
                 "archived": false,
                 "id": 48833910,
                 "language": "Rust",
-                "last_commit": "2026-08-27T09:09:03Z",
+                "last_commit": "2026-08-28T12:19:44Z",
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16815
-              }
+                "stars": 16818
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1121,11 +1187,12 @@
                 "archived": false,
                 "id": 23500865,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:08:06Z",
+                "last_commit": "2026-08-28T12:24:56Z",
                 "owner": "hyperium",
                 "repo": "hyper",
-                "stars": 16298
-              }
+                "stars": 16297
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1207,8 @@
                 "owner": "rwf2",
                 "repo": "Rocket",
                 "stars": 25783
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1151,11 +1219,12 @@
                 "archived": false,
                 "id": 3390243,
                 "language": "Rust",
-                "last_commit": "2026-08-27T18:23:30Z",
+                "last_commit": "2026-08-28T20:32:14Z",
                 "owner": "servo",
                 "repo": "servo",
-                "stars": 37805
-              }
+                "stars": 37809
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1166,11 +1235,12 @@
                 "archived": false,
                 "id": 135201145,
                 "language": "Rust",
-                "last_commit": "2026-08-26T14:38:11Z",
+                "last_commit": "2026-08-28T16:12:51Z",
                 "owner": "RustPython",
                 "repo": "RustPython",
-                "stars": 22307
-              }
+                "stars": 22310
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1181,11 +1251,12 @@
                 "archived": false,
                 "id": 46083140,
                 "language": "Rust",
-                "last_commit": "2026-08-27T07:43:59Z",
+                "last_commit": "2026-08-28T11:27:23Z",
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6536
-              }
+                "stars": 6537
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1196,11 +1267,12 @@
                 "archived": false,
                 "id": 97986310,
                 "language": "HCL",
-                "last_commit": "2026-08-27T20:09:51Z",
+                "last_commit": "2026-08-28T15:42:33Z",
                 "owner": "rust-lang",
                 "repo": "simpleinfra",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1214,8 +1286,9 @@
                 "last_commit": "2026-08-24T21:17:41Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63968
-              }
+                "stars": 63984
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Crater is a tool to run experiments across parts of the Rust ecosystem. Its primary purpose is to detect regressions in the Rust compiler, and it does this by building a large number of crates, running their test suites and comparing the results between two versions of the Rust compiler. It can operate locally (with Docker as the only dependency) or distributed on the cloud. It can operate locally (with Docker as the only dependency) or distributed on the cloud.\nWasmer enables super lightweight containers based on WebAssembly that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in any programming language.\nFirecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers. Firecracker has also been integrated in container runtimes, for example Kata Containers and Weaveworks Ignite.\nSonic is a fast, lightweight and schema-less search backend similar to Elasticsearch in some use-cases.\nClippy is a collection of lints to catch common mistakes and improve your Rust code.\nVector is a high-performance, end-to-end (agent & aggregator) observability data platform that puts the user in control of their observability data.\nChalk is an implementation and definition of the Rust trait system using a PROLOG-like logic solver.\nstdarch is Rust's standard library vendor-specific APIs and run-time feature detection.\nKrustlet acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes tolerations. The project is currently experimental.",
@@ -1233,11 +1306,12 @@
                 "archived": false,
                 "id": 179385712,
                 "language": "Rust",
-                "last_commit": "2026-08-25T19:01:08Z",
+                "last_commit": "2026-08-28T02:13:47Z",
                 "owner": "bottlerocket-os",
                 "repo": "bottlerocket",
-                "stars": 9663
-              }
+                "stars": 9665
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications. Acitvely being developed by Jeremy Soeller.\nTock is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. Tock uses two mechanisms to protect different components of the operating system. First, the kernel and device drivers are written in Rust, a systems programming language that provides compile-time memory safety, type safety and strict aliasing. Tock uses Rust to protect the kernel (the scheduler and hardware abstraction layer) from platform specific device drivers as well as isolate device drivers from each other. Second, Tock uses memory protection units to isolate applications from each other and the kernel.\nRust on Chrome OS is a document that provides information on creating Rust projects for installation within Chrome OS and Chrome OS SDK.\nWriting an OS in Rust is a blog series creates a small operating system in the Rust programming language by Philipp Oppermann.",
@@ -1259,11 +1333,12 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-27T16:05:22Z",
+            "last_commit": "2026-08-28T02:51:47Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -1278,7 +1353,8 @@
             "owner": "openshift",
             "repo": "hive",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -1293,7 +1369,8 @@
             "owner": "Kubeinit",
             "repo": "kubeinit",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         },
         {
           "node_type": "item",
@@ -1304,11 +1381,12 @@
             "archived": false,
             "id": 135516270,
             "language": "Go",
-            "last_commit": "2026-08-27T16:11:17Z",
+            "last_commit": "2026-08-28T17:08:33Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33836
-          }
+            "stars": 33842
+          },
+          "first_seen": "2026-08-28T21:14:59.891Z"
         }
       ],
       "title": "Kubernetes"
@@ -1331,7 +1409,8 @@
                 "owner": "plaidml",
                 "repo": "plaidml",
                 "stars": 4566
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1425,8 @@
                 "owner": "Theano",
                 "repo": "Theano",
                 "stars": 9998
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1361,7 +1441,8 @@
                 "owner": "NervanaSystems",
                 "repo": "ngraph",
                 "stars": 1344
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.\nPyTorch is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.\nAmazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\nAzure Databricks is a fast and collaborative Apache Spark-based big data analytics service designed for data science and data engineering. Azure Databricks, sets up your Apache Spark environment in minutes, autoscale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java, and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch, and scikit-learn.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nApache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. Support for Python, R, Julia, Scala, Go, Javascript and more.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nAnaconda is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.\nOpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nWeka is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.",
@@ -1389,7 +1470,8 @@
                 "owner": "roboticslibrary",
                 "repo": "rl",
                 "stars": 1199
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1404,7 +1486,8 @@
                 "owner": "intel",
                 "repo": "robot_devkit",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1418,8 +1501,9 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18425
-              }
+                "stars": 18427
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1430,11 +1514,12 @@
                 "archived": false,
                 "id": 95114723,
                 "language": "C++",
-                "last_commit": "2026-08-27T20:37:47Z",
+                "last_commit": "2026-08-28T17:56:35Z",
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11701
-              }
+                "stars": 11704
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1448,8 +1533,9 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9611
-              }
+                "stars": 9613
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1460,11 +1546,12 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-27T16:36:37Z",
+                "last_commit": "2026-08-28T14:26:24Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1475,11 +1562,12 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:24:03Z",
+                "last_commit": "2026-08-28T12:56:49Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14332
-              }
+                "stars": 14334
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1493,8 +1581,9 @@
                 "last_commit": "2026-08-16T16:53:49Z",
                 "owner": "carla-simulator",
                 "repo": "ros-bridge",
-                "stars": 643
-              }
+                "stars": 644
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1509,7 +1598,8 @@
                 "owner": "ms-iot",
                 "repo": "vscode-ros",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1524,7 +1614,8 @@
                 "owner": "microsoft",
                 "repo": "Azure_Kinect_ROS_Driver",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1539,7 +1630,8 @@
                 "owner": "microsoft",
                 "repo": "ros_azure_iothub",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1554,7 +1646,8 @@
                 "owner": "ms-iot",
                 "repo": "ros_msft_onnx",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1569,7 +1662,8 @@
                 "owner": "ms-iot",
                 "repo": "ros_msft_luis",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "ROS is robotics middleware. Although ROS is not an operating system, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management.\nROS2 is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it’s all open source.\nRobot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation. It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.\nMoveIt is the most widely used software for manipulation and has been used on over 100 robots. It provides an easy-to-use robotics platform for developing advanced applications, evaluating new designs and building integrated products for industrial, commercial, R&D, and other domains.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nGazebo accurately and efficiently simulates indoor and outdoor robots. You get a robust physics engine, high-quality graphics, and programmatic and graphical interfaces.\nRobotics System Toolbox provides tools and algorithms for designing, simulating, and testing manipulators, mobile robots, and humanoid robots. For manipulators and humanoid robots, the toolbox includes algorithms for collision checking, trajectory generation, forward and inverse kinematics, and dynamics using a rigid body tree representation. For mobile robots, it includes algorithms for mapping, localization, path planning, path following, and motion control. The toolbox provides reference examples of common industrial robot applications. It also includes a library of commercially available industrial robot models that you can import, visualize, and simulate.\nArduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.\nArduPilot enables the creation and use of trusted, autonomous, unmanned vehicle systems for the peaceful benefit of all. ArduPilot provides a comprehensive suite of tools suitable for almost any vehicle and application.\nLight Detection and Ranging(LiDAR) is a remote sensing method that uses light in the form of a pulsed laser at an object, and uses the time and wavelength of the reflected beam of light to estimate the distance and in some applications (Laser Imaging), to create a 3D representation of the object and its surface characteristics. This technology is commonly used in aircraft and self-driving vehicles.\nROS-Industrial is an open source project that extends the advanced capabilities of ROS software to manufacturing.\nAWS RoboMaker is the most complete cloud solution for robotic developers to simulate, test and securely deploy robotic applications at scale. RoboMaker provides a fully-managed, scalable infrastructure for simulation that customers use for multi-robot simulation and CI/CD integration with regression testing in simulation.\nMicrosoft Robotics Developer Studio is a free .NET-based programming environment for building robotics applications.",
@@ -1597,7 +1691,8 @@
                 "owner": "virt-manager",
                 "repo": "virt-manager",
                 "stars": 3233
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1611,8 +1706,9 @@
                 "last_commit": "2026-08-27T10:43:49Z",
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 842
-              }
+                "stars": 843
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             },
             {
               "node_type": "item",
@@ -1627,7 +1723,8 @@
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": "KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.\nQEMU is a fast processor emulator using a portable dynamic translator. QEMU emulates a full system, including a processor and various peripherals. It can be used to launch a different Operating System without rebooting the PC or to debug system code.\nHyper-V enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.\noVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.\nPacker is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.\nVagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the \"works on my machine\" excuse a relic of the past. It provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.",
@@ -1649,7 +1746,8 @@
                 "owner": "mikeroyal",
                 "repo": "ARM-Guide",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T21:14:59.891Z"
             }
           ],
           "description": null,
@@ -1661,7 +1759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:45:25.867Z",
+    "last_updated": "2026-08-28T21:14:59.891Z",
     "original_repository_info": {
       "archived": false,
       "id": 302151518,
