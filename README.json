@@ -646,7 +646,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-09T13:24:14Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "ARM-software",
             "repo": "ComputeLibrary",
             "stars": 3192,
@@ -736,7 +736,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9323,
+            "stars": 9329,
             "topics": [
               "arm",
               "arm64",
@@ -817,7 +817,7 @@
             "open_issues": 216,
             "owner": "apple",
             "repo": "tensorflow_macos",
-            "stars": 3648,
+            "stars": 3646,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:59.891Z"
@@ -844,7 +844,7 @@
             "open_issues": 18,
             "owner": "AsahiLinux",
             "repo": "docs",
-            "stars": 2289,
+            "stars": 2290,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:59.891Z"
@@ -897,7 +897,7 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T06:04:43Z",
+                "last_commit": "2026-09-13T05:22:17Z",
                 "open_issues": 42,
                 "owner": "FPGAwars",
                 "repo": "apio",
@@ -982,7 +982,7 @@
                 "open_issues": 95,
                 "owner": "open-sdr",
                 "repo": "openwifi",
-                "stars": 4796,
+                "stars": 4797,
                 "topics": [
                   "802-11",
                   "ad9361",
@@ -1200,7 +1200,7 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T06:04:43Z",
+                "last_commit": "2026-09-13T05:22:17Z",
                 "open_issues": 42,
                 "owner": "FPGAwars",
                 "repo": "apio",
@@ -1334,7 +1334,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45314,
+                "stars": 45313,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.891Z"
@@ -1359,10 +1359,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-11T22:56:10Z",
-                "open_issues": 1108,
+                "open_issues": 1119,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27458,
+                "stars": 27460,
                 "topics": [
                   "c",
                   "cmake",
@@ -1435,7 +1435,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1503,7 +1503,7 @@
                 "open_issues": 47,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29590,
+                "stars": 29595,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1539,11 +1539,11 @@
                 "id": 22790488,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T22:43:02Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-13T06:53:54Z",
+                "open_issues": 128,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94691,
+                "stars": 94687,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -1596,10 +1596,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T02:19:50Z",
-                "open_issues": 754,
+                "open_issues": 755,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51902,
+                "stars": 51903,
                 "topics": [
                   "guava",
                   "java"
@@ -1695,10 +1695,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-09T05:13:23Z",
-                "open_issues": 25,
+                "open_issues": 28,
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2117,
+                "stars": 2119,
                 "topics": [
                   "code-analysis",
                   "language-server",
@@ -1721,10 +1721,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T22:13:48Z",
-                "open_issues": 331,
+                "open_issues": 333,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15635,
+                "stars": 15638,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.891Z"
@@ -1777,7 +1777,7 @@
                 "open_issues": 338,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38503,
+                "stars": 38505,
                 "topics": [
                   "api",
                   "api-client",
@@ -1846,7 +1846,7 @@
                 "open_issues": 196,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28218,
+                "stars": 28219,
                 "topics": [
                   "cli",
                   "python"
@@ -1870,7 +1870,7 @@
                 "open_issues": 290,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8783,
+                "stars": 8787,
                 "topics": [
                   "bottle",
                   "python",
@@ -1897,7 +1897,7 @@
                 "open_issues": 148,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18638,
+                "stars": 18639,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -1967,10 +1967,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-18T11:15:46Z",
-                "open_issues": 173,
+                "open_issues": 172,
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18772,
+                "stars": 18773,
                 "topics": [
                   "hadoop",
                   "luigi",
@@ -1997,7 +1997,7 @@
                 "open_issues": 6,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28147,
+                "stars": 28148,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -2030,7 +2030,7 @@
                 "open_issues": 240,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33893,
+                "stars": 33896,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2107,10 +2107,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T21:22:30Z",
-                "open_issues": 1667,
+                "open_issues": 1669,
                 "owner": "rust-lang",
                 "repo": "cargo",
-                "stars": 15467,
+                "stars": 15469,
                 "topics": [
                   "cargo",
                   "package-manager",
@@ -2156,10 +2156,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T11:18:53Z",
-                "open_issues": 2594,
+                "open_issues": 2592,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17100,
+                "stars": 17104,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -2179,11 +2179,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-12T08:39:44Z",
-                "open_issues": 431,
+                "last_commit": "2026-09-13T14:26:32Z",
+                "open_issues": 435,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33129,
+                "stars": 33138,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -2208,7 +2208,7 @@
                 "open_issues": 1810,
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16838,
+                "stars": 16839,
                 "topics": [
                   "cncf",
                   "consensus",
@@ -2240,7 +2240,7 @@
                 "open_issues": 245,
                 "owner": "hyperium",
                 "repo": "hyper",
-                "stars": 16317,
+                "stars": 16316,
                 "topics": [
                   "http",
                   "hyper",
@@ -2265,7 +2265,7 @@
                 "open_issues": 90,
                 "owner": "rwf2",
                 "repo": "Rocket",
-                "stars": 25782,
+                "stars": 25783,
                 "topics": [
                   "framework",
                   "rocket",
@@ -2289,8 +2289,8 @@
                 "id": 3390243,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-12T13:27:52Z",
-                "open_issues": 3198,
+                "last_commit": "2026-09-13T14:07:37Z",
+                "open_issues": 3199,
                 "owner": "servo",
                 "repo": "servo",
                 "stars": 37963,
@@ -2318,8 +2318,8 @@
                 "id": 135201145,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-12T06:51:28Z",
-                "open_issues": 397,
+                "last_commit": "2026-09-13T14:16:59Z",
+                "open_issues": 395,
                 "owner": "RustPython",
                 "repo": "RustPython",
                 "stars": 22342,
@@ -2353,7 +2353,7 @@
                 "open_issues": 183,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6580,
+                "stars": 6584,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:59.891Z"
@@ -2397,7 +2397,7 @@
                 "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64125,
+                "stars": 64135,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -2488,7 +2488,7 @@
             "open_issues": 10,
             "owner": "openshift",
             "repo": "hive",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:59.891Z"
@@ -2535,10 +2535,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T00:09:03Z",
-            "open_issues": 82,
+            "open_issues": 81,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33941,
+            "stars": 33946,
             "topics": [
               "k8s",
               "kubernetes"
@@ -2713,7 +2713,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18472,
+                "stars": 18473,
                 "topics": [
                   "ai",
                   "airsim",
@@ -2748,11 +2748,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T03:22:08Z",
-                "open_issues": 464,
+                "last_commit": "2026-09-12T22:12:20Z",
+                "open_issues": 466,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11734,
+                "stars": 11737,
                 "topics": [
                   "components",
                   "cpp",
@@ -2787,7 +2787,7 @@
                 "open_issues": 14,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9636,
+                "stars": 9641,
                 "topics": [
                   "diy",
                   "hardware",
@@ -2813,10 +2813,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T12:14:08Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "alicevision",
                 "repo": "AliceVision",
-                "stars": 3492,
+                "stars": 3493,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -2851,7 +2851,7 @@
                 "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14391,
+                "stars": 14393,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -3154,7 +3154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:44:03.267Z",
+    "last_updated": "2026-09-13T14:40:31.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "ARM Guide ",
