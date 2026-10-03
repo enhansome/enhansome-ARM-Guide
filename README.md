@@ -10,37 +10,37 @@
 
 # Table of Contents
 
-1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide#arm-learning-resources) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+1. [ARM Learning Resources](https://github.com/mikeroyal/ARM-Guide#arm-learning-resources)
 
-2. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide#arm-tools--projects) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+2. [ARM Tools & Projects](https://github.com/mikeroyal/ARM-Guide#arm-tools--projects)
 
-3. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide#apple-silicon--learning-resources) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+3. [Apple Silicon & Learning Resources](https://github.com/mikeroyal/ARM-Guide#apple-silicon--learning-resources)
 
-4. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide#linux-on-arm) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+4. [Linux on ARM](https://github.com/mikeroyal/ARM-Guide#linux-on-arm)
 
-5. [Windows on ARM](https://github.com/mikeroyal/ARM-Guide#windows-on-arm) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+5. [Windows on ARM](https://github.com/mikeroyal/ARM-Guide#windows-on-arm)
 
-6. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/ARM-Guide#fpga-development) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+6. [FPGA(Field Programmable Gate Arrays) Development](https://github.com/mikeroyal/ARM-Guide#fpga-development)
 
-7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/ARM-Guide#verilogsystemverilog-development) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+7. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/ARM-Guide#verilogsystemverilog-development)
 
-8. [C/C++ Development](https://github.com/mikeroyal/ARM-Guide#cc-development) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+8. [C/C++ Development](https://github.com/mikeroyal/ARM-Guide#cc-development)
 
-9. [Java Development](https://github.com/mikeroyal/ARM-Guide#java-development) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+9. [Java Development](https://github.com/mikeroyal/ARM-Guide#java-development)
 
-10. [Python Development](https://github.com/mikeroyal/ARM-Guide#python-development) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+10. [Python Development](https://github.com/mikeroyal/ARM-Guide#python-development)
 
-11. [Rust Development](https://github.com/mikeroyal/ARM-Guide#rust-development) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+11. [Rust Development](https://github.com/mikeroyal/ARM-Guide#rust-development)
 
-12. [Kubernetes](https://github.com/mikeroyal/ARM-Guide#kubernetes) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+12. [Kubernetes](https://github.com/mikeroyal/ARM-Guide#kubernetes)
 
-13. [Machine Learning](https://github.com/mikeroyal/ARM-Guide#machine-learning) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+13. [Machine Learning](https://github.com/mikeroyal/ARM-Guide#machine-learning)
 
-14. [Robotics](https://github.com/mikeroyal/ARM-Guide#robotics) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+14. [Robotics](https://github.com/mikeroyal/ARM-Guide#robotics)
 
-15. [Telco 5G](https://github.com/mikeroyal/ARM-Guide#telco-5g) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+15. [Telco 5G](https://github.com/mikeroyal/ARM-Guide#telco-5g)
 
-16. [Networking](https://github.com/mikeroyal/ARM-Guide#networking) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+16. [Networking](https://github.com/mikeroyal/ARM-Guide#networking)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/156943308-e32a0d8c-0df8-4cc4-8dbc-e19de33953ea.png">
@@ -48,7 +48,7 @@
 
 # Awesome ARM Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
 [ARM](https://www.arm.com/) stands for Advanced RISC Machine, which is a collection of reduced instruction set computing architectures for CPUs configured for various development environments such servers, IoT, and other mobile devices.
 
@@ -102,7 +102,7 @@
 
 # ARM Tools & Projects
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 [Armv9](https://www.arm.com/blogs/blueprint/armv9?_ga=2.37680224.1534693862.1616989380-1578602299.1612458803&_gac=1.48967698.1616092796.EAIaIQobChMIv8K527667wIVBfHACh3nBwKhEAAYASAAEgIdYfD_BwE) is a new Arm architecture built on the success of [Armv8](https://en.wikichip.org/wiki/arm/armv8) that offers a CPU performance increase of more than 30% over the next two generations of mobile and infrastructure CPUs. Armv9 will accelerate the move from general-purpose to more specialized compute across every application as AI, the Internet of Things (IoT) and 5G gain momentum world-wide.
 
@@ -138,7 +138,7 @@
 
 [TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
 
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,389 | 🐛 224 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,396 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers.
 
@@ -148,7 +148,7 @@
 
 # Apple Silicon & Learning Resources
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/105645197-de010180-5e4e-11eb-823b-c2152b3223ef.jpeg">
@@ -198,7 +198,7 @@
 
 # Linux on ARM
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
 [Ubuntu Desktop](https://ubuntu.com/raspberry-pi)
 
@@ -276,7 +276,7 @@
 
 # Windows on ARM
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
 [ARM64EC (“Emulation Compatible”)](https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec) is a new application binary interface (ABI) for Windows 11 on ARM that runs with native speed and is interoperable with x64 architecture. An app, process, or even a module can freely mix and match with ARM64EC and x64 as needed. The ARM64EC code in the app will run natively while any x64 code will run using Windows 11 on ARM’s built-in emulation. The ARM64EC ABI differs slightly from the current [ARM64 ABI](https://docs.microsoft.com/en-us/cpp/build/arm64-windows-abi-conventions?view=msvc-160) in ways that make it binary compatible with x64 code. Specifically, the ARM64EC ABI follows x64 software conventions including calling convention, stack usage, and data alignment, making ARM64EC and x64 interoperable. Apps built as ARM64EC may contain x64 code but do not have to, since ARM64EC is its own complete, first-class ABI for Windows.
 
@@ -302,7 +302,7 @@
 
 # FPGA Development
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104069966-ab060f00-51ba-11eb-8295-d3479b485c86.png">
@@ -373,7 +373,7 @@
 
 [LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-02 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-03 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,188 | 🐛 69 | 🌐 Python | 📅 2026-09-21 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -381,7 +381,7 @@
 
 [FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,468 | 🐛 155 | 🌐 Python | 📅 2026-09-25 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
 
-[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,826 | 🐛 98 | 🌐 C | 📅 2026-09-21 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,829 | 🐛 98 | 🌐 C | 📅 2026-09-21 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
 
 [PipeCNN](https://github.com/doonny/PipeCNN) ⭐ 1,390 | 🐛 44 | 🌐 C | 📅 2022-02-14 is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs). Currently, there is a growing trend among developers in the FPGA community to utilize High Level Synthesis (HLS) tools to design and implement customized circuits on FPGAs.
 
@@ -404,7 +404,7 @@
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 559 | 🐛 106 | 🌐 C | 📅 2026-09-09 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,389 | 🐛 224 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,396 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,640 | 🐛 244 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
@@ -416,7 +416,7 @@
 
 # Verilog/SystemVerilog Development
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/102273517-4b785480-3ed7-11eb-910a-113821428f17.png">
@@ -452,7 +452,7 @@
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-02 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-03 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,188 | 🐛 69 | 🌐 Python | 📅 2026-09-21 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -478,7 +478,7 @@
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -514,7 +514,7 @@
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,350 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,353 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -562,7 +562,7 @@
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,511 | 🐛 1,105 | 🌐 CMake | 📅 2026-10-02 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,513 | 🐛 1,092 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -614,13 +614,13 @@
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,648 | 🐛 54 | 🌐 C++ | 📅 2026-09-30 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,650 | 🐛 54 | 🌐 C++ | 📅 2026-10-02 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 # Java Development
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93925952-c0b6fd80-fccb-11ea-9f90-21c4148e3c86.png">
@@ -671,13 +671,13 @@
 
 [NetBeans](https://netbeans.org/features/java/index.html) is an IDE provides Java developers with all the tools needed to create professional desktop, mobile and enterprise applications. Creating, Editing, and Refactoring. The IDE provides wizards and templates to let you create Java EE, Java SE, and Java ME applications.
 
-[Java Design Patterns ](https://github.com/iluwatar/java-design-patterns) ⭐ 94,758 | 🐛 133 | 🌐 Java | 📅 2026-09-29 is a collection of the best formalized practices a programmer can use to solve common problems when designing an application or system.
+[Java Design Patterns ](https://github.com/iluwatar/java-design-patterns) ⭐ 94,756 | 🐛 133 | 🌐 Java | 📅 2026-09-29 is a collection of the best formalized practices a programmer can use to solve common problems when designing an application or system.
 
 [Elasticsearch](https://www.elastic.co/products/elasticsearch) is a distributed RESTful search engine built for the cloud written in Java.
 
-[RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,184 | 🐛 11 | 🌐 Java | 📅 2026-10-01 is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences. It extends the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to support sequences of data/events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety and concurrent data structures.
+[RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,185 | 🐛 11 | 🌐 Java | 📅 2026-10-01 is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences. It extends the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to support sequences of data/events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety and concurrent data structures.
 
-[Guava](https://github.com/google/guava) ⭐ 51,912 | 🐛 748 | 🌐 Java | 📅 2026-10-01 is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well.
+[Guava](https://github.com/google/guava) ⭐ 51,913 | 🐛 748 | 🌐 Java | 📅 2026-10-03 is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well.
 
 [okhttp](https://square.github.io/okhttp/) is a HTTP client for Java and Kotlin developed by Square.
 
@@ -721,7 +721,7 @@
 
 # Python Development
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
@@ -781,7 +781,7 @@
 
 [Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,123 | 🐛 24 | 🌐 Python | 📅 2026-09-30 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
 
-[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,670 | 🐛 327 | 🌐 Python | 📅 2026-10-02 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,671 | 🐛 331 | 🌐 Python | 📅 2026-10-02 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 [Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -789,7 +789,7 @@
 
 [Web2py](http://web2py.com/) is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.
 
-[AWS Chalice](https://github.com/aws/chalice) ⭐ 11,052 | 🐛 501 | 🌐 Python | 📅 2026-09-11 is a framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
+[AWS Chalice](https://github.com/aws/chalice) ⭐ 11,053 | 🐛 501 | 🌐 Python | 📅 2026-09-11 is a framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
@@ -821,7 +821,7 @@
 
 [Luigi](https://github.com/spotify/luigi) ⭐ 18,778 | 🐛 178 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,196 | 🐛 6 | 🌐 Python | 📅 2026-09-26 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 8 | 🌐 Python | 📅 2026-09-26 is an easy to use, scriptable and scalable performance testing tool.
 
 [spaCy](https://github.com/explosion/spaCy) ⭐ 33,933 | 🐛 248 | 🌐 Python | 📅 2026-09-30 is a library for advanced Natural Language Processing in Python and Cython.
 
@@ -843,7 +843,7 @@
 
 # Rust Development
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93025405-8dc98700-f5b2-11ea-93f9-12b4a0ef3001.png">
@@ -872,37 +872,37 @@
 
 ## Rust Tools
 
-[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,539 | 🐛 1,679 | 🌐 Rust | 📅 2026-10-02 is a package manager that downloads your Rust project’s dependencies and compiles your project.
+[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,542 | 🐛 1,680 | 🌐 Rust | 📅 2026-10-02 is a package manager that downloads your Rust project’s dependencies and compiles your project.
 
 [Crater](https://crater.rust-lang.org/) is a tool to run experiments across parts of the Rust ecosystem. Its primary purpose is to detect regressions in the Rust compiler, and it does this by building a large number of crates, running their test suites and comparing the results between two versions of the Rust compiler. It can operate locally (with Docker as the only dependency) or distributed on the cloud. It can operate locally (with Docker as the only dependency) or distributed on the cloud.
 
 [VSCode-Rust](https://github.com/rust-lang/vscode-rust) ⚠️ Archived is plugin that adds language support for Rust to Visual Studio Code. Rust support is powered by a separate language server - either by the official Rust Language Server (RLS) or rust-analyzer, depending on the user's preference. If you don't have it installed, the extension will install it for you (with permission). This extension is built and maintained by the Rust IDEs and editors team with the focus on providing a stable, high quality extension that makes the best use of the respective language server.
 
-[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,167 | 🐛 2,460 | 🌐 C++ | 📅 2026-10-02 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
+[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,169 | 🐛 2,463 | 🌐 C++ | 📅 2026-10-02 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
 
-[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 21,116 | 🐛 289 | 🌐 Rust | 📅 2026-10-02.
+[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 21,118 | 🐛 282 | 🌐 Rust | 📅 2026-10-03.
 
 [Firecracker](https://firecracker-microvm.github.io) is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) ⚠️ Archived and [Weaveworks Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived.
 
-[Tokio](https://github.com/tokio-rs/tokio) ⭐ 33,300 | 🐛 482 | 🌐 Rust | 📅 2026-10-02 is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
+[Tokio](https://github.com/tokio-rs/tokio) ⭐ 33,307 | 🐛 467 | 🌐 Rust | 📅 2026-10-02 is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
 
-[TiKV](https://github.com/tikv/tikv) ⭐ 16,897 | 🐛 1,842 | 🌐 Rust | 📅 2026-10-01 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
+[TiKV](https://github.com/tikv/tikv) ⭐ 16,898 | 🐛 1,842 | 🌐 Rust | 📅 2026-10-02 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
 
 [Sonic](https://crates.io/crates/sonic-server) is a fast, lightweight and schema-less search backend similar to Elasticsearch in some use-cases.
 
-[Hyper](https://github.com/hyperium/hyper) ⭐ 16,344 | 🐛 245 | 🌐 Rust | 📅 2026-10-02 is a fast and correct HTTP library for Rust.
+[Hyper](https://github.com/hyperium/hyper) ⭐ 16,344 | 🐛 244 | 🌐 Rust | 📅 2026-10-02 is a fast and correct HTTP library for Rust.
 
 [Rocket](https://github.com/SergioBenitez/Rocket) ⭐ 25,779 | 🐛 92 | 🌐 Rust | 📅 2025-12-28 is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
 
 [Clippy](https://rust-lang.github.io/rust-clippy/) is a collection of lints to catch common mistakes and improve your Rust code.
 
-[Servo](https://github.com/servo/servo) ⭐ 38,060 | 🐛 3,161 | 🌐 Rust | 📅 2026-10-02 is a prototype web browser engine written in the Rust language.
+[Servo](https://github.com/servo/servo) ⭐ 38,065 | 🐛 3,166 | 🌐 Rust | 📅 2026-10-03 is a prototype web browser engine written in the Rust language.
 
 [Vector](https://vector.dev/) is a high-performance, end-to-end (agent & aggregator) observability data platform that puts the user in control of their observability data.
 
-[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,376 | 🐛 410 | 🌐 Rust | 📅 2026-10-02 is a Python Interpreter written in Rust.
+[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,375 | 🐛 403 | 🌐 Rust | 📅 2026-10-02 is a Python Interpreter written in Rust.
 
-[Miri](https://github.com/rust-lang/miri) ⭐ 6,634 | 🐛 194 | 🌐 Rust | 📅 2026-10-02 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
+[Miri](https://github.com/rust-lang/miri) ⭐ 6,635 | 🐛 192 | 🌐 Rust | 📅 2026-10-02 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
 
 [Chalk](https://rust-lang.github.io/chalk/book/) is an implementation and definition of the Rust trait system using a PROLOG-like logic solver.
 
@@ -910,7 +910,7 @@
 
 [Simpleinfra](https://github.com/rust-lang/simpleinfra) ⭐ 178 | 🐛 70 | 🌐 HCL | 📅 2026-10-01 is rep that contains the tools and automation written by the Rust infrastructure team to manage our services. Using some of the tools in this repo require privileges only infra team members have.
 
-[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 64,261 | 🐛 37 | 🌐 Rust | 📅 2026-09-29 is a small set of exercises to get you used to reading and writing Rust code.
+[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 64,264 | 🐛 37 | 🌐 Rust | 📅 2026-09-29 is a small set of exercises to get you used to reading and writing Rust code.
 
 [Krustlet](https://krustlet.dev/) acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes [tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/). The project is currently experimental.
 
@@ -918,7 +918,7 @@
 
 [Redox](https://www.redox-os.org) is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications. Acitvely being developed by [Jeremy Soeller](https://gitlab.redox-os.org/jackpot51).
 
-[Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,672 | 🐛 202 | 🌐 Rust | 📅 2026-10-01 is an open-source Linux-based operating system meant for hosting containers. Bottlerocket focuses on security and maintainability, providing a reliable, consistent, and safe platform for container-based workloads.
+[Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,674 | 🐛 201 | 🌐 Rust | 📅 2026-10-02 is an open-source Linux-based operating system meant for hosting containers. Bottlerocket focuses on security and maintainability, providing a reliable, consistent, and safe platform for container-based workloads.
 
 [Tock](https://www.tockos.org) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. Tock uses two mechanisms to protect different components of the operating system. First, the kernel and device drivers are written in Rust, a systems programming language that provides compile-time memory safety, type safety and strict aliasing. Tock uses Rust to protect the kernel (the scheduler and hardware abstraction layer) from platform specific device drivers as well as isolate device drivers from each other. Second, Tock uses memory protection units to isolate applications from each other and the kernel.
 
@@ -928,7 +928,7 @@
 
 # Kubernetes
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
@@ -961,7 +961,7 @@
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 38 | 🌐 Shell | 📅 2026-10-02 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 42 | 🌐 Shell | 📅 2026-10-03 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
@@ -971,13 +971,13 @@
 
 [VMware Tanzu](https://tanzu.vmware.com/tanzu) is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
 
 [KubeInit](https://github.com/kubeinit/kubeinit) ⭐ 224 | 🐛 5 | 🌐 Python | 📅 2025-12-05 provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,108 | 🐛 73 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,111 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -1059,7 +1059,7 @@
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/108111395-756e0480-7049-11eb-85ca-b87315e9d3ef.jpeg">
@@ -1113,7 +1113,7 @@
 
 # Robotics
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352533-b55fb380-1078-11eb-874c-f165cbcce899.png">
@@ -1145,17 +1145,17 @@ commercially available industrial robot models that you can import, visualize, a
 
 [ArduPilot](https://ardupilot.org/ardupilot/index.html) enables the creation and use of trusted, autonomous, unmanned vehicle systems for the peaceful benefit of all. ArduPilot provides a comprehensive suite of tools suitable for almost any vehicle and application.
 
-[AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,529 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.
+[AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,531 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.
 
-[F´ (F Prime)](https://github.com/nasa/fprime) ⭐ 11,807 | 🐛 429 | 🌐 C++ | 📅 2026-10-01 is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F´ has been successfully deployed on several space applications.
+[F´ (F Prime)](https://github.com/nasa/fprime) ⭐ 11,807 | 🐛 429 | 🌐 C++ | 📅 2026-10-03 is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F´ has been successfully deployed on several space applications.
 
-[The JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,678 | 🐛 16 | 🌐 HTML | 📅 2026-09-03 is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. The Open Source Rover is designed almost entirely out of consumer off the shelf (COTS) parts. This project is intended to be a teaching and learning experience for those who want to get involved in mechanical engineering, software, electronics, or robotics.
+[The JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,677 | 🐛 16 | 🌐 HTML | 📅 2026-09-03 is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. The Open Source Rover is designed almost entirely out of consumer off the shelf (COTS) parts. This project is intended to be a teaching and learning experience for those who want to get involved in mechanical engineering, software, electronics, or robotics.
 
 [Light Detection and Ranging(LiDAR)](https://en.wikipedia.org/wiki/Lidar) is a remote sensing method that uses light in the form of a pulsed laser at an object, and uses the time and wavelength of the reflected beam of light to estimate the distance and in some applications ([Laser Imaging](https://en.wikipedia.org/wiki/Laser_scanning)), to create a 3D representation of the object and its surface characteristics. This technology is commonly used in aircraft and self-driving vehicles.
 
-[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,508 | 🐛 44 | 🌐 C++ | 📅 2026-10-02 is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.
+[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,508 | 🐛 45 | 🌐 C++ | 📅 2026-10-02 is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,452 | 🐛 1,191 | 🌐 C++ | 📅 2026-10-02 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,453 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-03 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
 
 [ROS bridge](https://github.com/carla-simulator/ros-bridge) ⭐ 646 | 🐛 186 | 🌐 Python | 📅 2026-08-16 is a package to bridge ROS for CARLA Simulator.
 
@@ -1203,7 +1203,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 # Telco 5G
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 <img src="https://user-images.githubusercontent.com/45159366/105409952-14881380-5be6-11eb-84fc-b07db69698ed.png">
 
@@ -1330,7 +1330,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide#table-of-contents)
 
 ## Networking Learning Resources
 
@@ -1500,14 +1500,14 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/ARM-Guide/pulls) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/ARM-Guide/pulls).
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/ARM-Guide/blob/main/README.md#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
